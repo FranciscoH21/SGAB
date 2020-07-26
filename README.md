@@ -14,7 +14,7 @@ Manage books, users, visits, activities and other things for a best time optimiz
 
 - NetBeans IDE 8.2
 
-### Java Libraries
+### JAVA LIBRARIES
 
 - JCalendar 1.4
 
